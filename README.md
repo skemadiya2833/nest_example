@@ -1,2 +1,2 @@
-# assignments
+# Example projects for nest js
 
